@@ -1,0 +1,9 @@
+title: 习惯主义         # title of the site
+description: 习惯主义   # description of the site
+
+# Default layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"

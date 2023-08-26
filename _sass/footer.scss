@@ -1,0 +1,20 @@
+.footer {
+    text-align: center;
+    padding-top: .5rem;
+    color: var(--gray-700);
+
+    & p {
+        padding: 0;
+    }
+
+    & a {
+        font-size: .9rem;
+        color: var(--gray-500);
+        text-decoration: none;
+        transition: 0.5s;
+
+        &:hover {
+            color: var(--gray-300);
+        }
+    }
+}

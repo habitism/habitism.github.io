@@ -1,0 +1,56 @@
+.header {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.header-title {
+    padding: 0;
+    font-size: 2rem;
+}
+
+.header-description {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    max-width: 20rem;
+    border-radius: .5rem;
+    text-align: left;
+    margin: auto;
+    background-color: var(--gray-900);
+    color: var(--gray-500);
+    & a {
+        color: var(--link-color);
+    }
+}
+
+.archive {
+    padding: 1rem;
+    border-top: 1px solid var(--gray-700);
+    border-bottom: 1px solid var(--gray-700);
+}
+
+.field {
+    border-left: 1px solid var(--gray-700);
+    border-right: 1px solid var(--gray-700);
+    margin: .25rem 0;
+
+    & h1 {
+        text-align: center;
+        display: block;
+        margin: 0;
+        padding: .5rem;
+        font-size: 1rem;
+        background-color: var(--gray-700);
+    }
+
+    & a {
+        display: block;
+        padding: .5rem;
+        border-bottom: 1px solid var(--gray-700);
+        transition: background-color 0.2s;
+        &:hover, :focus {
+            background-color: var(--gray-700);
+        }
+    }
+}
