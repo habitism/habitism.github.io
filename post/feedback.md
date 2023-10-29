@@ -13,7 +13,7 @@ title: 反馈
 ## 社交账号
 
 - 公众号 - 习惯主义
-- 微博 - [习惯主义](https://weibo.com/habitism)
+- 微博 - [习惯主义](https://weibo.com/u/7869730519)
 - 知乎 - [习惯主义](https://www.zhihu.com/people/habitist)
-- 哔站 - [习惯主义](https://space.bilibili.com/3493119548984089)
+- B 站 - [习惯主义](https://space.bilibili.com/3493119548984089)
 - Youtube - [习惯主义](https://www.youtube.com/channel/UCdu-H9BtCFfKwSo-kh8oU0A)
