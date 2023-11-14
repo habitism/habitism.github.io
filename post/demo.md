@@ -1,4 +1,5 @@
 ---
+permalink: /demo.html
 title: 「网站」写作风格展示
 mathjax: true
 mermaid: true
